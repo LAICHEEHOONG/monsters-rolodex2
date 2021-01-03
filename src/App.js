@@ -54,7 +54,7 @@ class App extends React.Component {
 
 
       <div className="App">
-        <h1>MONSTERS ROLODEX</h1>
+        <h1>MONSTERS ROLODEX 2</h1>
 
         <SearchBox 
           PLACEHOLDER='search monsters'
